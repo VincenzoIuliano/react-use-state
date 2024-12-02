@@ -1,0 +1,25 @@
+/* RESET RULES  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ul, ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: currentColor;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
+  .container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }

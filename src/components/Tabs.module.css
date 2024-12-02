@@ -1,0 +1,38 @@
+.tabs {
+    background-color: beige;
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    margin-top: 2rem 0;
+}
+
+.tabs_triggers {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.button {
+    background-color: white;
+    line-height: 2rem;
+    padding: 0 1rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.active {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.tab {
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+
+.title {
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+    display: block;
+}
